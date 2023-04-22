@@ -1,8 +1,11 @@
-
-Coded project for my Applied Project &amp; Minor Dissertation module
 # Applied Project & Minor Dissertation
 ## ATU BSc(Hons) in Software Development
 ### Alexandra Cotter – G00385851
+
+Coded project for the Applied Project &amp; Minor Dissertation module.
+
+To view the screencast of the project & the thesis PDF, visit [this repository](https://github.com/alexandrac77/fictional-journey)
+
 
 Gimmie Chocolate is a 2D platform game created with Unity and C#. It is loosely inspired by the super mario bros series.
 The game adventure begins when a little girl who loves chocolate and sweets, is transported into a candy-themed world. Using simple controls the player must navigate through the levels, collecting chocolates and gummy bears along the way. Honey bee enemies line the little girl’s pathway across the game world and must be avoided. Getting stung by a bee will cause death. Obtaining as many collectibles as possible and reaching the finish line with the highest score, is the aim of the game.
