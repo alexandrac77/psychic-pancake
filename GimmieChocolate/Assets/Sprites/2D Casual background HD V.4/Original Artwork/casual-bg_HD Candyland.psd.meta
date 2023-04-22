@@ -1,0 +1,4723 @@
+fileFormatVersion: 2
+guid: e7d40378485b84b138e247f3ae7d57c1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1de68724f75fe4aa959a6820bf7ae7
+      internalID: 4352247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12981cd188f4e44897b066d3253260e
+      internalID: 1028011171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c9e0bf1803f56479f3f18ada10f2e4
+      internalID: 1223821849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6224da4989f87b44ebd4d4c35ed4208c
+      internalID: 1395660453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd421ab9449768439504a7e1fb1e36c
+      internalID: 462251011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fadabbae430e8d4f908ae4b613175cd
+      internalID: -1676201035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95a662cfb5d36e4892900d74df812b8
+      internalID: 1664774711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_7
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd924a39edc6575479ec59373934c610
+      internalID: 1571898677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_8
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc69ca328bee4ee409352704ebdee547
+      internalID: 699295585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_9
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada909035c8748f4eafebc72002f0773
+      internalID: -1262764671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_10
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2e6c0850d1c9b4f9f96ac2a585f009
+      internalID: 190952300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_11
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4638728016a50ab448172dff38e7c817
+      internalID: 1381538162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_12
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa4eeb78f0b5054bb2b074b9ceab034
+      internalID: -310115777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_13
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d45d8bb1e3395f4dbea3b20b8f0b789
+      internalID: 568253922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_14
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8fa3146fb2ae24abcf595cb8790a7c
+      internalID: -685797428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_15
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db35bea335e12140a55e8377ab4778c
+      internalID: -2119925343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aff1f612648194b89788e5f816a349
+      internalID: 700531091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4047657acbadc4aab966bd9465740c
+      internalID: 1152543953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd15abc864f8644c98d0cf7703dadfa
+      internalID: -1057163725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209905a12f27a6644a19cf75d4a8d2f0
+      internalID: -263895759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bc85efa27393d4a8e7efd9b26faca2
+      internalID: -1853528422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_21
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38560441e4198a44da3933eec3e70c22
+      internalID: -1843102684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_22
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8495037d18203eb498f2e11a249ef93d
+      internalID: -2021000146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_23
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a170b927988934d868f9cb7adfd99d
+      internalID: 1557498518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_24
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c598bdd4886ce419b43fc202bdda53
+      internalID: -1788176111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_25
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf8e27cbdcecb54fbe557c1e7849e20
+      internalID: 793076220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_26
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94508d10e0aa6a40ac242b0f9b811d7
+      internalID: -1337202584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_27
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7953b6bb56c625478a792aa56f5b5f9
+      internalID: -1083677617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_28
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82e0ddc16753d84bb64dee4ffd99f26
+      internalID: 1409710835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_29
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b4343f456cb3743881b329587ad498
+      internalID: 2085029878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_30
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffaef74365d6a1448ec710dd1829f2e
+      internalID: -1800630076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_31
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32ae334fb16cb746ac57eaa4644ae86
+      internalID: -67433831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b57277fcc3928c4c9875eb1bd223d43
+      internalID: 877890207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1050
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182aac515c4e36a4d8e51da186bf4133
+      internalID: 481331849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1050
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44ba06db6063cf43953f5886f2db841
+      internalID: 1778133902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_35
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1050
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a07b8817cffe445a7c36357d88def8
+      internalID: 2137333638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1050
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c8aad2d5848d445a2b574d46c21101
+      internalID: -1774629510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_37
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1050
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40961279f3a325a46b4e8d9dc6645b63
+      internalID: 2011641481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_38
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1050
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d24416d46d0e604489f74db8d684e9a
+      internalID: -414730312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_39
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1050
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbe92725cac7924ab6315259b7d4db9
+      internalID: 1194012382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_40
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1050
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c4c0cc976eb4e48b5d210b2bdd2904
+      internalID: 1450043943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_41
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1050
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20018a9150d6684c902d59fa39ad4e5
+      internalID: -1179600597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_42
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1050
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c5ef842ae089341a6d61787a483240
+      internalID: 941601740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_43
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1050
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bae589f6b01385478ef9085709bc044
+      internalID: 1187118322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_44
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1050
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589aeeec4634a9947b978f4698cd28fa
+      internalID: -1965410473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_45
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1050
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704d78e87e8e39b4a91911df2e96903f
+      internalID: -1899129988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_46
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1050
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d054e865c54a3e42ab4acca34ba5c44
+      internalID: 593267257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_47
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1050
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81505ff2e5f07a44dbb14cbaa8822f8f
+      internalID: -596475011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8565ddaa0c38f024aa12858e15d6e8a5
+      internalID: -1369676005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 950
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95d8de5405f7cf4d9ac0a032d333067
+      internalID: 1454226248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 950
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a3c8fcd67c2d646bac43270c239a79
+      internalID: 1562236064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_51
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 950
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497591fd76f87f947b0f73153dfbc433
+      internalID: -168802269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_52
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 950
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a35f0b68ba8d434cbd504fc07f6586f
+      internalID: -922791120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_53
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 950
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e14dd74bca597d4b8899c3120d2f1fe
+      internalID: 1684144811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_54
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 950
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95b708fee87bbc4a9bf5b9071a37231
+      internalID: 694244745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_55
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 950
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d3f6618a4607748a364e1370036983
+      internalID: -1817006960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_56
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 950
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33c43a4ef0361c4dbfe3a8fa9d8d0dc
+      internalID: 1412900190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_57
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 950
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc565cbc35ab28e4b8bf03f7363af6ed
+      internalID: 2052089931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_58
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 950
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0124e3106f299bd489f508574578f773
+      internalID: 1454485674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_59
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 950
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95db5ba0ed92d7144b04f193873ed65f
+      internalID: 1921528023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_60
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 950
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0cf25b97af5024a9e2cfc03e69e288
+      internalID: -1578555655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_61
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 950
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52971a0b8307a454e9f3ea38c19c0d74
+      internalID: 974293571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_62
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 950
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abddcad6f29a39b418c750fea79f35b9
+      internalID: -1503735774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_63
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 950
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9067fee719ac28a4180fc4c7a5e8633f
+      internalID: -662728373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a333b5323d6bee2409b203d905ba72d7
+      internalID: 518728777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_65
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 850
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068691b49914f574e90a3e9ff141cd57
+      internalID: -242496672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_66
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 850
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb418b5c078141b40823f02810ec889f
+      internalID: -1653669177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_67
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 850
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2679c2027ef1e4f829079ad7e00900
+      internalID: 1254582359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_68
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 850
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab508c0fd77301a49879bac42b140161
+      internalID: 197751536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_69
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 850
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dd54643743b8a4bbadc1654ed33283
+      internalID: -1900280030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_70
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 850
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f836ea2698607644dbc4f70c9871c26f
+      internalID: -351112326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_71
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 850
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595bbd5f71fc0f945931a3f3f8c3358f
+      internalID: -818367984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_72
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 850
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92daa28d11e6abb47a6427d59a76a0ad
+      internalID: -1934209314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_73
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 850
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d553871b4200a43bc59ff620d14cf3
+      internalID: 1804958768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_74
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 850
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3d5cd464b1049419fe496ad51ba521
+      internalID: -1612750261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_75
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 850
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bc0da094acf9b48a53068bd763b8a6
+      internalID: 375555281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_76
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 850
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66ecb2c65904ab4aa0064a0b7f97dd8
+      internalID: 1342123289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_77
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 850
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dcec4d8428a0c47825f3d66ced2ac3
+      internalID: 247065491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_78
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 850
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b4b1348fd71234f92eecd0488b77de
+      internalID: 100760632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_79
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 850
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f669d5e48b46f4e94a6bd8faef5650
+      internalID: 1540532119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da64b055a3324a549b75e05a0c71ac7b
+      internalID: -1975900458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_81
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 750
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26db703879e2be4eac955c98516f53c
+      internalID: -988261696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 750
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ee1ef12298c44499937f9d3f57d3aa
+      internalID: 157669848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_83
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 750
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf09a7c1a81d264bb28c496e081b586
+      internalID: 1262806649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_84
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 750
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9bac57fa9dc2e4987ac32504d4e657
+      internalID: -549132600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_85
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 750
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de77cc939fd563847ae6d5e6100329f7
+      internalID: -800325206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_86
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 750
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c182e44407585e34bbde945b4171043a
+      internalID: 963909247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_87
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 750
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c8df4bf446848428e83371a9317dda
+      internalID: -454415505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_88
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 750
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74571f91c77f5c7409313f5c09ab478b
+      internalID: 1975376959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_89
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 750
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a49030338dbe942ad0976362b2f679
+      internalID: -2078329921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_90
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 750
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305def2f21b3d984ebe2bb12de3b268e
+      internalID: 657138862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_91
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 750
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1623346b783627e4fb4cce4230df833d
+      internalID: 1595366458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_92
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 750
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e3b0d77bb383146b4d5d1eaeae9bd7
+      internalID: -24789020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_93
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 750
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0106ac7537ad694dbeaa7ad96822afd
+      internalID: 1243833066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_94
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 750
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9cd58eb5612574ca59fc6d5635bcc6
+      internalID: -366664748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_95
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 750
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c526e6f4c551f2e4085f7fc3ba19ea77
+      internalID: -1970611877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e21ee20f16b0db4bad1020668b8e261
+      internalID: -862366607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_97
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 650
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0e0a285db8b844498ab637b5b0d09b
+      internalID: -1126860410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_98
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 650
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a7824d874ab84469b053553f45aa96
+      internalID: -527053169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_99
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 650
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02672b97df8a4d944b01d19b726ee4b2
+      internalID: -1523056754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_100
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 650
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d1d546b60ea394aaca4600e33f5aa4
+      internalID: 1114265465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_101
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 650
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdd2a9ad9f726749b4cb704b7160bca
+      internalID: 2117320111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_102
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 650
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014f4a142a1f5104591da32b2f66a274
+      internalID: 2033786273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_103
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 650
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4c8cde00cb7f24c80a8a2a7a471fc7
+      internalID: 1388102249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_104
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 650
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b1efe7230f9fc4d8376278cf0df2c4
+      internalID: 1111801785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_105
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 650
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20696f80e79cdf341b4a7ed4a831e901
+      internalID: -382465685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_106
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 650
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268d1b82004f68643b5417a81cc03e94
+      internalID: 788713548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_107
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 650
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a5a38db05243146a1d6b35e145245a
+      internalID: 466966874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_108
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 650
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68849f186248684b83a8fbb9a6a516a
+      internalID: -2042344867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_109
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 650
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16be6f050a34dad449521ca2317c12f1
+      internalID: -1623060278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_110
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 650
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ff1ef0bc5659c46813bb105290ce60
+      internalID: 1447703487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_111
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 650
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869465aaed3dd774b888937e1bb86ad2
+      internalID: -1807432160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9697bab8d1d3e4c8bfe3ac7e3eaf2e
+      internalID: 1938818235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_113
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 550
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88145237cd08c194f92048d9fb31dd8b
+      internalID: 1299831744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_114
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 550
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb59696c650fbc42b347a37ba4dcb08
+      internalID: -164635183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_115
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 550
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896a3d673a6a1524199a013a1adbe645
+      internalID: -875097001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_116
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 550
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167ac7176d41fd14fad0ba562469998c
+      internalID: -582416046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_117
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 550
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1afeb708b62354aa3598cdfb611624
+      internalID: -461868441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_118
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 550
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab567f76690a9248a01009b090e36c1
+      internalID: 733003487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_119
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 550
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637c68f48650c6b408a2957320c82a3d
+      internalID: -1479316028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_120
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 550
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0473edb01907f7e4babee73d685566b3
+      internalID: -2081893704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_121
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 550
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6830e84af8ae243a1a5918fafbf07c
+      internalID: -1738909510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_122
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 550
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077b860d51b3ebf4fa94361479aca3dc
+      internalID: 1156452705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_123
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 550
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e8e9edf427c8a47a673ac331333333
+      internalID: 1552243617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_124
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 550
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b923a1e4dd4d4ca70bcb417cceaf0
+      internalID: 2118236474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_125
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 550
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb38acfc2f5c90842972e07553fdfb13
+      internalID: -484244250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_126
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 550
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8dfcaa7a2fb6444ad6f63b231dcaf4
+      internalID: -1349333122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_127
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 550
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312c3013aa6676d4e9587859d727f82f
+      internalID: -1918367738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3a3342cce75ec41b13be8b880a45a7
+      internalID: -504003348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_129
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 450
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a491615186d1243aaad344e972e49a
+      internalID: 1765783923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_130
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 450
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2355450b566344745853c639d18120a4
+      internalID: -792222221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_131
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 450
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d51a1b98edcfb44915ea64533b4cb7
+      internalID: -1198315183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_132
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 450
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5d589d5d9af9c4f9315d4b11c4374d
+      internalID: -98094178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_133
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 450
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09b75ee5874bfb4692e46ecc3c4cb5d
+      internalID: 699148062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_134
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 450
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d92bd225d2951409f23cdb44418e02
+      internalID: 504362352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_135
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 450
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05626f4107be944ba5ace6f7ada47c0
+      internalID: -326798835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_136
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 450
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f642679f5a5b14ca138e161df64499
+      internalID: 361038382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_137
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 450
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9098d4d8ba6934fb528fb616d8f7b1
+      internalID: 109379552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_138
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 450
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adb5ed20f7b1a74f9f0b3d01e013d29
+      internalID: -2070304185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_139
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 450
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0eb7ef25c1aa844aa46d068c465662
+      internalID: 1749754749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_140
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 450
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b4cf9082460084599f3e5b3b12c214
+      internalID: -2120645651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_141
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 450
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722f05667d35621418c38155bf1bcf9f
+      internalID: 687646818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_142
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 450
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ce96aae3800df41b34878fe3bc9d40
+      internalID: 1022825966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_143
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 450
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18b8197e3c539940b6c642b5df14d7d
+      internalID: -1518912646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30bf317ba826934482b37d4d1b3225b
+      internalID: 1679094187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_145
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 350
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05056e12f73d93b44b2f60e84e3bb65c
+      internalID: 517644495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_146
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 350
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d986e31ee91deb940a5106ad0063616b
+      internalID: 2013601631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_147
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 350
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5882fbf7b7c28954880e5e16afa3f8ec
+      internalID: 905320136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_148
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 350
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29558441bc353f498aec086a79fc2c4
+      internalID: -382152932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_149
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 350
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1d9e1504d23df41b394935f00319ae
+      internalID: -699585704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_150
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 350
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4633a99a8a63bf459621cf221f4bb7e
+      internalID: 936815894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_151
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 350
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95166a30dd0ca3648aed08aa7af01fcc
+      internalID: 1355520183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_152
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 350
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8636160fda0a8dc47aa006b1d2062377
+      internalID: 137559267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_153
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 350
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55c35880c0dece4eb73b8474782ff3c
+      internalID: 1292171585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_154
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 350
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7023ba192fec80c47afeb2c77cf37135
+      internalID: -658289587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_155
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 350
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998afe611aed4dc43a4e470698b67017
+      internalID: -160869694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_156
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 350
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ccab575f0c62144ab6191cb1094a9d
+      internalID: -51446832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_157
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 350
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91814f36305cd484ea3cbb0264f2ceda
+      internalID: 1051245158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_158
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 350
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55468a738a0026b4dac4e84f20b29197
+      internalID: 813008234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_159
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 350
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6a25a7da42bcb4dacef28d90743e65
+      internalID: -1666373756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0740ea4128ccadc439b21bd6a02f5a19
+      internalID: -1927655985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_161
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e16ad0cb24f6b8419fe2717613214e6
+      internalID: -1743219749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_162
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59eb4cb8b14b6a47989c83d778df742
+      internalID: -1247175669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_163
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8016169c43508ad4aab25d28563509cd
+      internalID: -2080926421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_164
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01de4503cf0bf6440af99fab26a5245a
+      internalID: 1607880078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_165
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cafec8c1cba574eb49284d3fcc4c60
+      internalID: 1718550851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_166
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a779c04adb190449a164ac9ec8fcd74
+      internalID: -2134923248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_167
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bccc561451bc44bada06692b1014c6
+      internalID: 368749918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_168
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e4005299b0a6d418a245e319ea23e8
+      internalID: -860391248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_169
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1661dd62787c4604e98414dd01035bd7
+      internalID: 1835337052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_170
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27325d3c0e6b4614f821b159dc584771
+      internalID: 1858338180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_171
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884c0448fa9f61f47b336d4beb274a7e
+      internalID: -502364670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_172
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6da539ff3cee894a83859e9be4d63cb
+      internalID: 287186040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_173
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecd8bd911fd9d24998e8f655c377a64
+      internalID: 1707306301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_174
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72c70f6de38d044fb957691c7db58b9
+      internalID: -137036893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_175
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 250
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbed93433c61744ab8e7855f08b9314
+      internalID: 1167628372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd1f522f88d1d541acd3c224109045b
+      internalID: 2124348470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_177
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ae4a5fc249a654cb172db47c405121
+      internalID: -2115734619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_178
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f97afdec5640247b14ac356717cbc3
+      internalID: -1115876336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_179
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1736205d7e8259f4b9d35c2e49e7dbf9
+      internalID: -2129294367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_180
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57a81dc3c4da3542b6faa2b1b19073d
+      internalID: -935620169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_181
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31779ce248eff1458b6b546eb8572f4
+      internalID: 1549517667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_182
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f146043cbe0e764da49e81fe35454f6
+      internalID: 866595593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_183
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3888af41cd2c4f94a93d7244be4e50f6
+      internalID: -27740150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_184
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff07d1fa2b31ac4a8d67fee0d212a0b
+      internalID: 1002339740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_185
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b3177b04b21a9469aaf0b1f6f0b7b8
+      internalID: 1213487358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_186
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be555e0ace9e7442828640cb5d1996e
+      internalID: 109819842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_187
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729e4b6ad95c3244fb76260c1b88fb98
+      internalID: -310405652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_188
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c204c315753e44db04e4875d4eed87
+      internalID: -685660771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_189
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c9f1a761642444e847ea6896ded2be
+      internalID: 958319882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_190
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75b80901312ff74a9f550e7fdfbf668
+      internalID: 1714092447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_191
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 150
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420064a5d4a1e8b48998c272e2313975
+      internalID: 357964439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec302283755e4644c9f8123481d6d381
+      internalID: 975408741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_193
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 50
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b705131925d45c418ad1ad834cfa4ab
+      internalID: 252865786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_194
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 50
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e7664d672149441945c140f784b6e0
+      internalID: 1508877445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_195
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 50
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebb6dde5032f3446939babfa8d3726f
+      internalID: -2087176042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_196
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 50
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1f57b6877688a40a178ffd491bbdfb
+      internalID: 1705446367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_197
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 50
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea24b2ecf89ecd942a3f7d934eb3fe0a
+      internalID: 1340744223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_198
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 50
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ca69dc3e26db94983082dbd4dee6b3
+      internalID: 1584055883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_199
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 50
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ac6807f7a4e324f9373bd5394f5c22
+      internalID: 302235112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_200
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 50
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0c21efecc18924986beb1600fdd528
+      internalID: -784759266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_201
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 50
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf38c7d66ad7bb45b5c504385ed9596
+      internalID: -1893954617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_202
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 50
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e87af1a403213f44a641f30c69aeb11
+      internalID: -2129208286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_203
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 50
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb744130db4cbb049a0d283c1b35a19a
+      internalID: -428827290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_204
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 50
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a7d21576c715a4884cf68aa06eb6ea
+      internalID: 1214836551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_205
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 50
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19d198a177f3144a9c7b937b862a41b
+      internalID: 348920683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_206
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 50
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8464bc5a87f2f524b8251783fd410587
+      internalID: -1383736576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casual-bg_HD Candyland_207
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 50
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3735a584cd8d541a6b155af53fdef0
+      internalID: 2008886627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      casual-bg_HD Candyland_95: -1970611877
+      casual-bg_HD Candyland_114: -164635183
+      casual-bg_HD Candyland_148: -382152932
+      casual-bg_HD Candyland_169: 1835337052
+      casual-bg_HD Candyland_172: 287186040
+      casual-bg_HD Candyland_128: -504003348
+      casual-bg_HD Candyland_57: 2052089931
+      casual-bg_HD Candyland_154: -658289587
+      casual-bg_HD Candyland_192: 975408741
+      casual-bg_HD Candyland_53: 1684144811
+      casual-bg_HD Candyland_28: 1409710835
+      casual-bg_HD Candyland_54: 694244745
+      casual-bg_HD Candyland_32: 877890207
+      casual-bg_HD Candyland_55: -1817006960
+      casual-bg_HD Candyland_142: 1022825966
+      casual-bg_HD Candyland_50: 1562236064
+      casual-bg_HD Candyland_18: -1057163725
+      casual-bg_HD Candyland_10: 190952300
+      casual-bg_HD Candyland_79: 1540532119
+      casual-bg_HD Candyland_22: -2021000146
+      casual-bg_HD Candyland_138: -2070304185
+      casual-bg_HD Candyland_191: 357964439
+      casual-bg_HD Candyland_97: -1126860410
+      casual-bg_HD Candyland_176: 2124348470
+      casual-bg_HD Candyland_70: -351112326
+      casual-bg_HD Candyland_119: -1479316028
+      casual-bg_HD Candyland_69: -1900280030
+      casual-bg_HD Candyland_0: 4352247
+      casual-bg_HD Candyland_108: -2042344867
+      casual-bg_HD Candyland_134: 504362352
+      casual-bg_HD Candyland_205: 348920683
+      casual-bg_HD Candyland_190: 1714092447
+      casual-bg_HD Candyland_187: -310405652
+      casual-bg_HD Candyland_43: 1187118322
+      casual-bg_HD Candyland_68: 197751536
+      casual-bg_HD Candyland_63: -662728373
+      casual-bg_HD Candyland_189: 958319882
+      casual-bg_HD Candyland_98: -527053169
+      casual-bg_HD Candyland_135: -326798835
+      casual-bg_HD Candyland_48: -1369676005
+      casual-bg_HD Candyland_45: -1899129988
+      casual-bg_HD Candyland_116: -582416046
+      casual-bg_HD Candyland_51: -168802269
+      casual-bg_HD Candyland_180: -935620169
+      casual-bg_HD Candyland_93: 1243833066
+      casual-bg_HD Candyland_145: 517644495
+      casual-bg_HD Candyland_207: 2008886627
+      casual-bg_HD Candyland_155: -160869694
+      casual-bg_HD Candyland_72: -1934209314
+      casual-bg_HD Candyland_115: -875097001
+      casual-bg_HD Candyland_11: 1381538162
+      casual-bg_HD Candyland_13: 568253922
+      casual-bg_HD Candyland_39: 1194012382
+      casual-bg_HD Candyland_157: 1051245158
+      casual-bg_HD Candyland_165: 1718550851
+      casual-bg_HD Candyland_112: 1938818235
+      casual-bg_HD Candyland_3: 1395660453
+      casual-bg_HD Candyland_174: -137036893
+      casual-bg_HD Candyland_17: 1152543953
+      casual-bg_HD Candyland_143: -1518912646
+      casual-bg_HD Candyland_151: 1355520183
+      casual-bg_HD Candyland_178: -1115876336
+      casual-bg_HD Candyland_166: -2134923248
+      casual-bg_HD Candyland_139: 1749754749
+      casual-bg_HD Candyland_125: -484244250
+      casual-bg_HD Candyland_124: 2118236474
+      casual-bg_HD Candyland_62: -1503735774
+      casual-bg_HD Candyland_132: -98094178
+      casual-bg_HD Candyland_203: -428827290
+      casual-bg_HD Candyland_77: 247065491
+      casual-bg_HD Candyland_137: 109379552
+      casual-bg_HD Candyland_117: -461868441
+      casual-bg_HD Candyland_173: 1707306301
+      casual-bg_HD Candyland_94: -366664748
+      casual-bg_HD Candyland_118: 733003487
+      casual-bg_HD Candyland_85: -800325206
+      casual-bg_HD Candyland_105: -382465685
+      casual-bg_HD Candyland_129: 1765783923
+      casual-bg_HD Candyland_188: -685660771
+      casual-bg_HD Candyland_78: 100760632
+      casual-bg_HD Candyland_29: 2085029878
+      casual-bg_HD Candyland_91: 1595366458
+      casual-bg_HD Candyland_2: 1223821849
+      casual-bg_HD Candyland_103: 1388102249
+      casual-bg_HD Candyland_104: 1111801785
+      casual-bg_HD Candyland_73: 1804958768
+      casual-bg_HD Candyland_130: -792222221
+      casual-bg_HD Candyland_67: 1254582359
+      casual-bg_HD Candyland_101: 2117320111
+      casual-bg_HD Candyland_84: -549132600
+      casual-bg_HD Candyland_46: 593267257
+      casual-bg_HD Candyland_147: 905320136
+      casual-bg_HD Candyland_92: -24789020
+      casual-bg_HD Candyland_59: 1921528023
+      casual-bg_HD Candyland_34: 1778133902
+      casual-bg_HD Candyland_160: -1927655985
+      casual-bg_HD Candyland_141: 687646818
+      casual-bg_HD Candyland_198: 1584055883
+      casual-bg_HD Candyland_16: 700531091
+      casual-bg_HD Candyland_106: 788713548
+      casual-bg_HD Candyland_33: 481331849
+      casual-bg_HD Candyland_38: -414730312
+      casual-bg_HD Candyland_199: 302235112
+      casual-bg_HD Candyland_109: -1623060278
+      casual-bg_HD Candyland_88: 1975376959
+      casual-bg_HD Candyland_123: 1552243617
+      casual-bg_HD Candyland_131: -1198315183
+      casual-bg_HD Candyland_9: -1262764671
+      casual-bg_HD Candyland_24: -1788176111
+      casual-bg_HD Candyland_21: -1843102684
+      casual-bg_HD Candyland_136: 361038382
+      casual-bg_HD Candyland_20: -1853528422
+      casual-bg_HD Candyland_87: -454415505
+      casual-bg_HD Candyland_49: 1454226248
+      casual-bg_HD Candyland_127: -1918367738
+      casual-bg_HD Candyland_42: 941601740
+      casual-bg_HD Candyland_171: -502364670
+      casual-bg_HD Candyland_122: 1156452705
+      casual-bg_HD Candyland_186: 109819842
+      casual-bg_HD Candyland_177: -2115734619
+      casual-bg_HD Candyland_71: -818367984
+      casual-bg_HD Candyland_196: 1705446367
+      casual-bg_HD Candyland_47: -596475011
+      casual-bg_HD Candyland_66: -1653669177
+      casual-bg_HD Candyland_8: 699295585
+      casual-bg_HD Candyland_40: 1450043943
+      casual-bg_HD Candyland_120: -2081893704
+      casual-bg_HD Candyland_164: 1607880078
+      casual-bg_HD Candyland_159: -1666373756
+      casual-bg_HD Candyland_133: 699148062
+      casual-bg_HD Candyland_152: 137559267
+      casual-bg_HD Candyland_90: 657138862
+      casual-bg_HD Candyland_168: -860391248
+      casual-bg_HD Candyland_82: 157669848
+      casual-bg_HD Candyland_81: -988261696
+      casual-bg_HD Candyland_86: 963909247
+      casual-bg_HD Candyland_1: 1028011171
+      casual-bg_HD Candyland_195: -2087176042
+      casual-bg_HD Candyland_4: 462251011
+      casual-bg_HD Candyland_167: 368749918
+      casual-bg_HD Candyland_156: -51446832
+      casual-bg_HD Candyland_183: -27740150
+      casual-bg_HD Candyland_184: 1002339740
+      casual-bg_HD Candyland_144: 1679094187
+      casual-bg_HD Candyland_56: 1412900190
+      casual-bg_HD Candyland_83: 1262806649
+      casual-bg_HD Candyland_36: -1774629510
+      casual-bg_HD Candyland_161: -1743219749
+      casual-bg_HD Candyland_202: -2129208286
+      casual-bg_HD Candyland_76: 1342123289
+      casual-bg_HD Candyland_153: 1292171585
+      casual-bg_HD Candyland_5: -1676201035
+      casual-bg_HD Candyland_201: -1893954617
+      casual-bg_HD Candyland_19: -263895759
+      casual-bg_HD Candyland_89: -2078329921
+      casual-bg_HD Candyland_146: 2013601631
+      casual-bg_HD Candyland_75: 375555281
+      casual-bg_HD Candyland_182: 866595593
+      casual-bg_HD Candyland_37: 2011641481
+      casual-bg_HD Candyland_111: -1807432160
+      casual-bg_HD Candyland_121: -1738909510
+      casual-bg_HD Candyland_44: -1965410473
+      casual-bg_HD Candyland_100: 1114265465
+      casual-bg_HD Candyland_99: -1523056754
+      casual-bg_HD Candyland_206: -1383736576
+      casual-bg_HD Candyland_65: -242496672
+      casual-bg_HD Candyland_102: 2033786273
+      casual-bg_HD Candyland_193: 252865786
+      casual-bg_HD Candyland_58: 1454485674
+      casual-bg_HD Candyland_25: 793076220
+      casual-bg_HD Candyland_126: -1349333122
+      casual-bg_HD Candyland_80: -1975900458
+      casual-bg_HD Candyland_204: 1214836551
+      casual-bg_HD Candyland_185: 1213487358
+      casual-bg_HD Candyland_27: -1083677617
+      casual-bg_HD Candyland_175: 1167628372
+      casual-bg_HD Candyland_60: -1578555655
+      casual-bg_HD Candyland_64: 518728777
+      casual-bg_HD Candyland_41: -1179600597
+      casual-bg_HD Candyland_15: -2119925343
+      casual-bg_HD Candyland_23: 1557498518
+      casual-bg_HD Candyland_31: -67433831
+      casual-bg_HD Candyland_113: 1299831744
+      casual-bg_HD Candyland_52: -922791120
+      casual-bg_HD Candyland_163: -2080926421
+      casual-bg_HD Candyland_96: -862366607
+      casual-bg_HD Candyland_12: -310115777
+      casual-bg_HD Candyland_194: 1508877445
+      casual-bg_HD Candyland_197: 1340744223
+      casual-bg_HD Candyland_30: -1800630076
+      casual-bg_HD Candyland_107: 466966874
+      casual-bg_HD Candyland_158: 813008234
+      casual-bg_HD Candyland_200: -784759266
+      casual-bg_HD Candyland_170: 1858338180
+      casual-bg_HD Candyland_7: 1571898677
+      casual-bg_HD Candyland_150: 936815894
+      casual-bg_HD Candyland_181: 1549517667
+      casual-bg_HD Candyland_35: 2137333638
+      casual-bg_HD Candyland_149: -699585704
+      casual-bg_HD Candyland_6: 1664774711
+      casual-bg_HD Candyland_26: -1337202584
+      casual-bg_HD Candyland_14: -685797428
+      casual-bg_HD Candyland_162: -1247175669
+      casual-bg_HD Candyland_179: -2129294367
+      casual-bg_HD Candyland_61: 974293571
+      casual-bg_HD Candyland_140: -2120645651
+      casual-bg_HD Candyland_110: 1447703487
+      casual-bg_HD Candyland_74: -1612750261
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
